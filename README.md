@@ -45,4 +45,5 @@ The script is derived from other scripts (see irssinotifier.py for history). It 
 ## Author
 
 Author: Caspar Clemens Mierau <ccm@screenage.de>
+        Martijn Stolk <martijn.stolk@gmail.com>
 
